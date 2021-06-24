@@ -1,6 +1,6 @@
 # 나는 김태완이다!
 
-- 내 이름은? : 김태완
+- 내 이름은? : 김태완 | <a href="mailto:tao710803@gmail.com">e-mail<a/>
 - 내가 좋아하는 것은 ? : 음료수
 
 [![ipiyou's github stats](https://github-readme-stats.vercel.app/api?username=ipiyou&show_icons=true&hide_border=true&count_private=true)](https://github.com/ipiyou)
